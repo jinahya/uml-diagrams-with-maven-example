@@ -36,6 +36,7 @@
     <project.build.sourcEncoding>UTF-8</project.build.sourcEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <github.site.noJekyll>true</github.site.noJekyll>
+    <keywords>true</keywords>
   </properties>
 
   <dependencies>
@@ -98,7 +99,6 @@
                   <artifactId>apiviz</artifactId> 
                   <version>1.3.2.GA</version> 
                 </docletArtifact> 
-                <keywords>true</keywords> 
                 <additionalparam/>
               </configuration>
             </plugin>
